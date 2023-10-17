@@ -1,5 +1,5 @@
 # GTheme by boris-gu
-Dark theme using AAA and AA fonts and Material Symbols taken from [fonts.google.com](fonts.google.com).
+Dark theme using NotoSans and Roboto fonts and Material Icons taken from [fonts.google.com](fonts.google.com).
 
 ![MainUI](01_MainUI_000.png)
 
