@@ -1,0 +1,2 @@
+# onion-gtheme
+OnionOS GTheme
