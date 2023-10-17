@@ -1,0 +1,48 @@
+{
+    "name": "GTheme",
+    "hideIconTitle": false,
+    "author": "boris-gu",
+    "description": "Dark theme with material icons",
+    "batteryPercentage": {
+        "visible": true,
+        "font": "NotoSans-Bold.ttf",
+        "size": 18,
+        "color": "#ffffff",
+        "textAlign": "center",
+        "fixed": false,
+        "offsetX": 2,
+        "offsetY": 0
+    },
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "title": {
+        "font": "NotoSans-Bold.ttf",
+        "size": 22,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "font": "NotoSans-Bold.ttf",
+        "size": 18,
+        "color": "#7d7d7d"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "font": "NotoSans-Bold.ttf",
+        "grid1x4": 22,
+        "grid3x4": 18,
+        "color": "#7d7d7d",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "NotoSans-Bold.ttf",
+        "size": 18,
+        "color": "#ffffff"
+    }
+}
