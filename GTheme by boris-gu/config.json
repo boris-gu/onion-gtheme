@@ -8,9 +8,9 @@
         "font": "NotoSans-Bold.ttf",
         "size": 18,
         "color": "#ffffff",
-        "textAlign": "center",
-        "fixed": false,
-        "offsetX": 2,
+        "textAlign": "right",
+        "fixed": true,
+        "offsetX": 0,
         "offsetY": 0
     },
     "hideLabels": {
